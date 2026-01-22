@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"DJ-Weather-Server": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"tsx",
+				"main.ts"
+			]
+		}
+	},
+	"inputs": []
+}
