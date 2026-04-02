@@ -5,8 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name:
-description:
-MY FIRST TEST AGENT
+description: MY FIRST TEST AGENT
 ---
 
 # My Agent
