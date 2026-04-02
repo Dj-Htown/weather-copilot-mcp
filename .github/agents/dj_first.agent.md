@@ -4,8 +4,8 @@
 # To make this agent available, merge this file into the default repository branch.
 # For format details, see: https://gh.io/customagents/config
 
-name:
-description: MY FIRST TEST AGENT
+name: DJ FIRST TEST AGENT
+description: TEST CREATION OF AGENTS
 ---
 
 # My Agent
